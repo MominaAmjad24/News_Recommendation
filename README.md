@@ -229,8 +229,11 @@ EPOCHS = 3
 **References**
 
 Wu et al. (2020) — MIND Dataset
+
 Wu et al. (2019) — NRMS Model
+
 Pennington et al. (2014) — GloVe
+
 
 **Summary**
 
