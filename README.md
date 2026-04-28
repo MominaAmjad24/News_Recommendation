@@ -1,4 +1,4 @@
-# 📰 Neural News Recommendation System (MIND Dataset)
+#  Neural News Recommendation System (MIND Dataset)
 
 ##  Overview
 
